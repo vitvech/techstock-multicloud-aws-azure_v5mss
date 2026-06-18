@@ -20,7 +20,7 @@ Esta entrega contempla o planejamento da arquitetura AWS do projeto TechStock Mu
 ### Camada de Aplicação
 
 - EC2 Backend (Node.js)
-- EC2 Frontend (Nginx)
+- EC2 Frontend (S3)
 - EC2 Monitoring (Prometheus e Grafana)
 
 ### Camada de Dados
